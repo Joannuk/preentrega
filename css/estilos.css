@@ -48,7 +48,6 @@ a{text-decoration: none;}
     .maincontact{
         display:flex;
         flex-direction: column;
-        row-gap: 10px;
         h1{ font-size: small;}
         p{font-size: small;}
     }
